@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <bus>
+        <price>2zl</price>
+        <number>129</number>
+        <first_stop>Dworzec Główny</first_stop>
+        <last_stop>Czyżyny Dworzec</last_stop>
+    </bus>
+    <tram>
+        <price>2zl</price>
+        <number>3</number>
+        <first_stop>Krowodrza Górka</first_stop>
+        <last_stop>Nowy Bieżanów</last_stop>
+    </tram>
+    <train>
+        <price>30zl</price>
+        <number>IC5314</number>
+        <first_stop>Wrocław Główny</first_stop>
+        <last_stop>Rzeszów Główny</last_stop>
+    </train>
+    <plane>
+        <price>653zl</price>
+        <number>FR2149</number>
+        <first_stop>Kraków</first_stop>
+        <last_stop>Manchester</last_stop>
+    </plane>
+    <bus>
+        <price>2zl</price>
+        <number>105</number>
+        <first_stop>Prądnik Czerwony</first_stop>
+        <last_stop>Dworzec Główny Zachód</last_stop>
+    </bus>
+    <tram>
+        <price>2zl</price>
+        <number>14</number>
+        <first_stop>Bronowice</first_stop>
+        <last_stop>Os.Piastów</last_stop>
+    </tram>
+</transport>
