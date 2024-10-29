@@ -1,0 +1,7 @@
+type,price,number,first stop,last stop
+bus,2zl,129,Dworzec Główny Zachód,Czyżyny Dworzec
+tram,2zl,3,Krowodrza Górka,Nowy Bieżanów
+train,30zl,IC5314,Wrocław Główny,Rzeszów Główny
+plane,653zl,FR2149,Kraków,Manchester
+bus,2zl,105,Prądnik Czerwony,Dworzec Główny Zachód
+tram,2zl,14,Bronowice,Os.Piastów
