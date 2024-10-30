@@ -17,4 +17,3 @@
 
 ### 3. Images
 
-<img src="https://images.app.goo.gl/iV7TkzpM4CLDHWe5A" />
