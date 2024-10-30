@@ -17,6 +17,4 @@
 
 ### 3. Images
 
-![][def]
-
-[def]: /public_transport/images/galeria_krakow_2.jpg
+![](/public_transport/images/galeria_krakow_2.jpg)
