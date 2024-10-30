@@ -17,6 +17,4 @@
 
 ### 3. Images
 
-![](https://www.google.com/search?q=krakow+bus&sca_esv=9c1f935616585616&rlz=1C5CHFA_enUA1122UA1122&udm=2&biw=1470&bih=830&sxsrf=ADLYWIJ-DjBgqV7o6Qs02MLo2u27k_tR5A%3A1730305285171&ei=BV0iZ--ICoe5wPAPjc660Qc&ved=0ahUKEwivn4C_wbaJAxWHHBAIHQ2nLnoQ4dUDCBA&uact=5&oq=krakow+bus&gs_lp=EgNpbWciCmtyYWtvdyBidXMyBhAAGAcYHjIGEAAYBxgeMgUQABiABDIFEAAYgAQyBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgYQABgHGB5I7RBQ8AlY-g5wAXgAkAEAmAFYoAGfBKoBATe4AQPIAQD4AQGYAgegAuUDwgIKEAAYgAQYQxiKBcICCBAAGAcYChgewgIIEAAYExgHGB6YAwCIBgGSBwE3oAfGJA&sclient=img#vhid=u3xjTOZuL5cQyM&vssid=mosaic)
-
-![](/Users/khrystynka/Downloads/galeria_krakow_2.jpg)
+![bus](/Users/khrystynka/Downloads/galeria_krakow_2.jpg)
