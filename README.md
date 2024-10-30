@@ -17,4 +17,4 @@
 
 ### 3. Images
 
-![bus]([/Users/khrystynka/Downloads/galeria_krakow_2.jpg](https://images.app.goo.gl/iV7TkzpM4CLDHWe5A))
+<img src="https://images.app.goo.gl/iV7TkzpM4CLDHWe5A" />
