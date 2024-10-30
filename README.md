@@ -17,3 +17,4 @@
 
 ### 3. Images
 
+![](/public_transport/images/galeria_krakow_2.jpg)
