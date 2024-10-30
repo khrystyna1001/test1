@@ -1,0 +1,12 @@
+{
+    "name": "bus",
+    "number": 129,
+    "price": 2.0000,
+    "currency": "zl",
+    "isDayBus": true,
+    "stops": ["Politechnika", "Cmentarz Rakowicki Zachód", "Park Wodny"],
+    "payments": {
+        "byCard": false,
+        "withZl": true
+    }
+}

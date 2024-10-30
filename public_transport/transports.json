@@ -1,0 +1,46 @@
+{
+    "1": {
+        "name": "bus",
+        "price": 2,
+        "currency": "zl",
+        "number": 129,
+        "isDayBus": true
+    },
+    "2": {
+        "name": "bus",
+        "price": 2,
+        "currency": "zl",
+        "number": 601,
+        "isDayBus": false
+    },
+    "3": {
+        "name": "bus",
+        "price": 2,
+        "currency": "zl",
+        "number": 608,
+        "isDayBus": false
+    },
+    "4": {
+        "name": "bus",
+        "price": 2,
+        "currency": "zl",
+        "number": 618,
+        "isDayBus": false
+    },
+    "5": {
+        "name": "bus",
+        "price": 2,
+        "currency": "zl",
+        "number": 105,
+        "isDayBus": true
+    },
+    "6": {
+        "name": "bus",
+        "price": 2,
+        "currency": "zl",
+        "number": 169,
+        "isDayBus": true
+    }
+    
+
+}
