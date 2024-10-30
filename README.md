@@ -14,7 +14,6 @@
 | train | IC5314 | 30 | zl |
 | plane | FR2149 | 653 | zl |
 
-
 ### 3. Images
 
 ![image](/test1/public_transport/images/galeria_krakow_2.jpg)
